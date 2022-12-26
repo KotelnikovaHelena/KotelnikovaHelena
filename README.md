@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KotelnikovaHelena
+- 👀 I’m interested in learning Python
+- 🌱 I’m currently learning System Analitic
+- 💞️ I’m looking to collaborate on pet-project.
+- 📫 How to reach me @Helena2207
